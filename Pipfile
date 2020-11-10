@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pylint = "*"
 pylint-django = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 pylint = "*"
