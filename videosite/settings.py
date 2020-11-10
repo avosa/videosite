@@ -25,7 +25,7 @@ SECRET_KEY = 'u@i8152^j+%3k*2jkzhe63($(6wlw_ax_z%uzls!x9!-(0-um%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://avosavideosite.herokuapp.com/']
 
 
 # Application definition
